@@ -1,0 +1,103 @@
+{
+  "name": "Weekend Hiking Group",
+  "type": "personal_chat",
+  "id": 123456789,
+  "messages": [
+    {
+      "id": 1,
+      "type": "message",
+      "date": "2024-01-20T09:00:00",
+      "from": "Priya",
+      "text": "Morning everyone! Weather looks great for tomorrow's hike 🌞"
+    },
+    {
+      "id": 2,
+      "type": "message",
+      "date": "2024-01-20T09:05:00",
+      "from": "Marco",
+      "text": "Awesome! Which trail are we doing? I vote for the Ridge Loop – 8 miles, moderate difficulty."
+    },
+    {
+      "id": 3,
+      "type": "message",
+      "date": "2024-01-20T09:08:00",
+      "from": "Sam",
+      "text": "Ridge Loop sounds good. What time do we meet at the trailhead?"
+    },
+    {
+      "id": 4,
+      "type": "message",
+      "date": "2024-01-20T09:10:00",
+      "from": "Priya",
+      "text": "How about 7:30 AM? We can carpool from the coffee shop on Main Street."
+    },
+    {
+      "id": 5,
+      "type": "message",
+      "date": "2024-01-20T09:12:00",
+      "from": "Marco",
+      "text": "7:30 works. I can drive – my car fits 4 people."
+    },
+    {
+      "id": 6,
+      "type": "service",
+      "date": "2024-01-20T09:13:00",
+      "actor": "Priya",
+      "text": "Priya pinned a message"
+    },
+    {
+      "id": 7,
+      "type": "message",
+      "date": "2024-01-20T09:15:00",
+      "from": "Lena",
+      "text": "Count me in! Should I bring snacks?"
+    },
+    {
+      "id": 8,
+      "type": "message",
+      "date": "2024-01-20T09:18:00",
+      "from": "Sam",
+      "text": "Yes please! I'll bring water bottles for everyone."
+    },
+    {
+      "id": 9,
+      "type": "message",
+      "date": "2024-01-20T09:20:00",
+      "from": "Priya",
+      "text": "Perfect. So: meet 7:30 at Main St coffee shop, Marco drives, Ridge Loop trail, Lena brings snacks, Sam brings water."
+    },
+    {
+      "id": 10,
+      "type": "message",
+      "date": "2024-01-20T09:22:00",
+      "from": "Marco",
+      "text": "Don't forget sunscreen! The ridge has zero shade."
+    },
+    {
+      "id": 11,
+      "type": "message",
+      "date": "2024-01-20T18:00:00",
+      "from": "Lena",
+      "text": [
+        "Just checked the forecast: ",
+        {"type": "bold", "text": "sunny, 72°F"},
+        ". We're going to have a great time!"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "message",
+      "date": "2024-01-20T18:05:00",
+      "from": "Sam",
+      "photo": "photo_123.jpg",
+      "text": ""
+    },
+    {
+      "id": 13,
+      "type": "message",
+      "date": "2024-01-20T20:00:00",
+      "from": "Priya",
+      "text": "See everyone bright and early! Set your alarms 😴"
+    }
+  ]
+}
