@@ -1,0 +1,21 @@
+# group-chat-summarizer configuration
+# ────────────────────────────────────
+
+# Ollama settings
+ollama:
+  base_url: "http://localhost:11434"
+  model: "qwen2.5:3b"            # swap freely: llama3.2:3b, phi3:mini, mistral:7b …
+  timeout: 120                    # seconds per request
+
+# Folders
+chats_dir: "./chats"
+digests_dir: "./digests"
+
+# Summarization
+summary:
+  chunk_size: 3000                # max characters per chunk sent to the model
+  prompt_file: "./prompts/summary.txt"
+
+# Watch mode
+watch:
+  interval_seconds: 300           # how often to re-scan in watch mode (5 min)
