@@ -67,9 +67,11 @@ ollama pull qwen2.5:3b       # default, fast and capable
 # or: ollama pull phi3:mini
 ```
 
-### 3. Install the summarizer
+### 3. Clone and install the summarizer
 
 ```bash
+git clone https://github.com/priyansh07-svnit/group-chat-summrizer.git
+cd group-chat-summrizer
 pip install .
 
 # or in development mode:
