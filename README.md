@@ -88,7 +88,11 @@ Export chats from WhatsApp or Telegram and drop them into `./chats/`:
 Or try it immediately with the included examples:
 
 ```bash
+# Linux / macOS
 cp examples/* chats/
+
+# Windows (PowerShell)
+Copy-Item examples\* chats\
 ```
 
 ### 5. Run
